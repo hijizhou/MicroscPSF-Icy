@@ -70,7 +70,7 @@ public class MicroscPSF extends EzPlug {
 		dbNs = new EzVarDouble("Specimen RI", 1.33, 1.3, 1.5, 0.05);
 		dbNg = new EzVarDouble("Coverslip RI", 1.5, 1.3, 1.5, 0.05);
 		dbNi = new EzVarDouble("Immersion RI", 1.5, 1.3, 1.7, 0.05);
-		dbTg = new EzVarDouble("Coverslip thickness (um)",70, 50, 200, 10);
+		dbTg = new EzVarDouble("Coverslip thickness (um)",170, 50, 200, 10);
 		dbTi = new EzVarDouble("Working distance (um)", 150, 50, 300, 10);
 		dbPz = new EzVarDouble("Particle position (nm)", 2000, 0, 3000, 100);
 		dbLateral = new EzVarDouble("Lateral size (nm)", 100, 10, 500, 10);
