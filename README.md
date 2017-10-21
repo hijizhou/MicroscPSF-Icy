@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 This is an Eclipse project of the [Icy](http://icy.bioimageanalysis.org) plugin for implementing the fast microscopic PSF (specifically, the Gibson-Lanni model) generation tool. Technical details can be found at [here](http://www.ee.cuhk.edu.hk/~jzli/MicroscPSF/). [The plugin]() itself can be downloaded from Icy website. 
 =======
 This is an Eclipse project of the [Icy](http://icy.bioimageanalysis.org) plugin for implementing the fast microscopic PSF (specifically, the Gibson-Lanni model) generation tool. Technical details can be found at [here](http://www.ee.cuhk.edu.hk/~jzli/MicroscPSF/). [The plugin](http://icy.bioimageanalysis.org/plugin/MicroscPSF) itself can be downloaded from the `bin` folder. 
->>>>>>> origin/master
 
 **References**:
 -----------
@@ -30,3 +28,13 @@ It is intended as a starting point to develop a comprehensive Icy plugin for the
 -----------
 
 Jizhou Li (hijizhou@gmail.com)
+
+**Acknowledgement**
+-----------
+[PSFgenerator](http://bigwww.epfl.ch/algorithms/psfgenerator/)
+
+**License**
+-----------
+Copyright (c) 2017, Jizhou Li, Feng Xue and Thierry Blu
+
+The source code is released under the [MIT license](https://opensource.org/licenses/MIT).
