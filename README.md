@@ -17,6 +17,8 @@ It is intended as a starting point to develop a comprehensive Icy plugin for the
 
 * Icy plugin: https://github.com/hijizhou/MicroscPSF-Icy.
 
+* Python code (by [Dr. Kyle Douglass](http://kmdouglass.github.io/)): http://kmdouglass.github.io/posts/implementing-a-fast-gibson-lanni-psf-solver-in-python.html
+
 **Screenshot**
 -----------
 ![GUI of MicroscPSF](screen.png?raw=true "GUI")
